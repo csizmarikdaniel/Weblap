@@ -1,0 +1,27 @@
+.cim{
+    text-align: center;
+    font-family: Arial;
+    color: white;
+}
+.body{
+    background-color: #ffb612;
+}
+.table{
+    background-color: #203731;
+    border: 0;
+    width: 80%;
+    text-align: center;
+}
+p{
+    color: white;
+    font-family: Arial;
+}
+a{
+    color: white;
+    font-family: Arial;
+}
+.szoveg{
+    color: white;
+    font-family: Arial;
+    text-align: left;
+}
